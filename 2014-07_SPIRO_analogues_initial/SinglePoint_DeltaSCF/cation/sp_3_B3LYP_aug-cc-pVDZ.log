@@ -1,0 +1,5 @@
+ Entering Gaussian System, Link 0=g09
+ Input=sp_3_B3LYP_aug-cc-pVDZ.com
+ Output=sp_3_B3LYP_aug-cc-pVDZ.log
+ Initial command:
+ /opt/g09/l1.exe /home/jarvist/2014-07_SPIRO/b3lyp-631gs_opt/delta_scf/cation/Gau-13578.inp -scrdir=/home/jarvist/2014-07_SPIRO/b3lyp-631gs_opt/delta_scf/cation/
