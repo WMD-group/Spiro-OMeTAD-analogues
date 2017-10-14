@@ -1,4 +1,7 @@
+[![DOI](https://zenodo.org/badge/34456445.svg)](https://zenodo.org/badge/latestdoi/34456445)
+
 # Spiro-OMeTAD-Analogues
+
 SPIRO-OMeTAD and twelve methoxy isomers and polymethoxy derivatives; Gaussian run files for Delta SCF calculations of ionisation potential.
 
 To accompany the publication of:
